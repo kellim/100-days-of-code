@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+title: 100 Days of Code
+include: 
+  round1-log.md
+  README.md
