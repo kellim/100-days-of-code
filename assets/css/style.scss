@@ -2,3 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+ background: #fbfbfb; 
+}
+
+nav {
+ width: 235px; 
+}
+
+section {
+ border: 0;
+ box-shadow: none;
+ font-size: 16px;
+}
