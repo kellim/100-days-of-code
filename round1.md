@@ -16,6 +16,7 @@ The next thing I need to do is adjust the height of some elements using JavaScri
 
 I feel like I should have finished this already, but I'm learning from the experience and that's what matters!
 
+**Links:**
 * [Bootstrap Testimonial Carousel with kittens on CodePen](https://codepen.io/kelli/pen/eQmeyV) - a work in progress.
 
 ## Day 1: November 4, 2018
