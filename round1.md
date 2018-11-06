@@ -4,6 +4,20 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18. 
 
+## Day 2: November 5, 2018
+
+![100 Days of Code Day 2: Learning by Doing](assets/images/100-days-of-code-day-2.jpg)
+
+**Progress:** I worked on my CodePen carousel again today and did a lot of troubleshooting. I'm happy that now only one testimonial is showing at a time and clicking the arrows to display the next or previous testimonial works as well. 
+
+I wanted to use Flexbox to style the carousel items, but I found out that using Flexbox in Bootstrap 3 carousel items is problematic so I'm using the Bootstrap grid system instead and struggled a bit with making sure the gap between columns wasn't too big.
+
+The next thing I need to do is adjust the height of some elements using JavaScript so that I can center a carousel item's image next to a blockquote and make it so the content under the testimonials section doesn't move up or down since the testimonials are different sizes. I spent a lot of time trying to figure out how to do this without JavaScript since some people might have JavaScript turned off, but I'm sure now that JavaScript is the way to go in this case.
+
+I feel like I should have finished this already, but I'm learning from the experience and that's what matters!
+
+* [Bootstrap Testimonial Carousel with kittens on CodePen](https://codepen.io/kelli/pen/eQmeyV) - a work in progress.
+
 ## Day 1: November 4, 2018
 
 ![100 Days of Code Day 1: Coding with Kittens](assets/images/100-days-of-code-day-1.jpg)
