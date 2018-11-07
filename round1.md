@@ -6,6 +6,22 @@ This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challe
 
 ## Day 2: November 5, 2018
 
+![100 Days of Code Day 2: Learning by Doing](assets/images/100-days-of-code-day-3.jpg)
+
+**Progress:** I spent some time barking up the wrong tree on how to vertically align an image next to the text inside the carousel, and in the end I figured out that Flexbox is probably the way to go even though I'd previously ruled it out. 
+
+I thought that Flexbox wouldn’t work inside the carousel before, but I just needed to add another wrapper div inside the carousel item. You don’t want to use Flexbox on the div with the class “item” inside a carousel or else it will display both of the items at once. I haven’t looked at the Bootstrap 3 source code, but it probably uses `display` to hide the item that doesn’t have the `active` class applied to it.
+
+Unfortunately, CodePen lost my progress where I got it to work so I’ll have to redo it tomorrow. And there’s still a challenge with this in getting the image to go on top of the testimonial text on small viewports, but I’ll leave that for tomorrow.
+
+
+**Links:**
+* [Bootstrap Testimonial Carousel with kittens on CodePen](https://codepen.io/kelli/pen/eQmeyV) - still a work in progress.
+
+
+
+## Day 2: November 5, 2018
+
 ![100 Days of Code Day 2: Learning by Doing](assets/images/100-days-of-code-day-2.jpg)
 
 **Progress:** I worked on my CodePen carousel again today and did a lot of troubleshooting. I'm happy that now only one testimonial is showing at a time and clicking the arrows to display the next or previous testimonial works as well. 
