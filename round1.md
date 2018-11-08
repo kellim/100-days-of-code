@@ -2,7 +2,35 @@
 
 ![100 Days of Code Round 1 Image](assets/images/100-days-of-code-round-1.jpg)
 
-This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18. 
+This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
+
+## Day 4: November 7, 2018
+
+![100 Days of Code Day 4](assets/images/100-days-of-code-day-4.jpg)
+
+**Progress:** 
+
+**tl;dr** 
+
+-----
+
+I tried to make it so the height of shorter testimonials would be equal to the height of the longest testimonial (even when the browser is resized), but the solution might be to make them the same length and add a link to ‘more’ at the end.
+
+-----
+
+![Cat Testimonial Screenshot](assets/images/day-4-cat-testimonial.png)
+ 
+ In my Bootstrap 3 testimonial carousel example on CodePen, there are 2 testimonials and the text is longer in one than it is in the other (this is also how it is in the open source site I’m working on). The problem is that when you switch between testimonials, the content under it shifts up and down.
+
+Attempting to resolve this, I used jQuery to set the shorter testimonial’s height (it would also work for multiple shorter testimonials) to be equal to the height of the longer testimonial (longer as in it has more text). That worked, but if you resized the browser window, then the shorter length testimonial’s height didn’t get updated to the new height of the longest testimonial which is a problem when you resize the browser window to be narrower because it will cut off the smaller testimonial’s text.
+
+So, I added more jQuery code (after finding [resize()](https://api.jquery.com/resize/)) to update the shorter testimonial’s height to be equal to the longer testimonial’s height whenever the browser was resized, however it caused text to overlap the testimonial image. This issue happens if you have the shorter testimonial showing on the screen at the time the browser window is resized since the longer testimonial’s height was 0 or 20px when it wasn’t on the screen, which seems to be due to the way Bootstrap is hiding it. 
+
+For the open source site I’m working on, I think I’ll propose the solution to make all testimonials the same length by chopping them off at a certain number of characters with a 'more' link so that you can read the entire testimonial if you want.
+
+**Links:**
+* [Bootstrap Testimonial Carousel with kittens on CodePen (WIP)](https://codepen.io/kelli/pen/vQNQpz) - a fork of the original
+
 
 ## Day 3: November 6, 2018
 
