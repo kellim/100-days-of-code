@@ -6,9 +6,9 @@ This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challe
 
 ## Day 5: November 8, 2018
 
-**Progress:**
-
 ![100 Days of Code Day 5](assets/images/100-days-of-code-day-5.jpg)
+
+**Progress:**
 
 I made it to Section 4, Lecture 20 in Colt Steele's JavaScript Algorithms course after resuming from somewhere in the Big O section today. This course is amazing so far and Big O makes even more sense to me now. Also space complexity makes sense which I didn't think about much before. 
 
