@@ -4,17 +4,32 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 5: November 8, 2018
+
+**Progress:**
+
+![100 Days of Code Day 5](assets/images/100-days-of-code-day-5.jpg)
+
+I made it to Section 4, Lecture 20 in Colt Steele's JavaScript Algorithms course after resuming from somewhere in the Big O section today. This course is amazing so far and Big O makes even more sense to me now. Also space complexity makes sense which I didn't think about much before. 
+
+I also watched a few videos in Jonas Schmedtmann's JavaScript course at 2x speed and think maybe I should skip some of the videos on the basics, but I think he is a really good instructor and I don't want to miss anything. I wanted to take the course for the more advanced stuff and I think it will help me learn how to organize code better for vanilla JavaScript projects.
+
+For my actual coding today that wasn't part of a tutorial, I started on the freeCodeCamp Survey Form project and passed 14 out of 17 tests so far! It looks bad right now, but I'll add style after it passes all the tests.
+
+**Links:**
+* [Survey Form on CodePen](https://codepen.io/kelli/pen/EOKMPa)
+
+
+
 ## Day 4: November 7, 2018
 
 ![100 Days of Code Day 4](assets/images/100-days-of-code-day-4.jpg)
 
 **Progress:** 
 
-**tl;dr** 
-
 -----
 
-I tried to make it so the height of shorter testimonials would be equal to the height of the longest testimonial (even when the browser is resized), but the solution might be to make them the same length and add a link to ‘more’ at the end.
+**tl;dr:** I tried to make it so the height of shorter testimonials would be equal to the height of the longest testimonial (even when the browser is resized), but the solution might be to make them the same length and add a link to ‘more’ at the end.
 
 -----
 
