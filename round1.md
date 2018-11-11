@@ -4,6 +4,19 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+
+## Day 6: November 10, 2018
+
+![100 Days of Code Day 5](assets/images/100-days-of-code-day-6.jpg)
+
+**Progress:**
+
+I missed a day yesterday, but I'm back today and my Survey Form now passes all the tests. :tada: I didn't get that far with styling the form yet, but tomorrow I want to try using Flexbox to style the form which will hopefully make it so no media queries need to be used. I also did some CSS lessons on freeCodeCamp and hope to do the CSS Grid and Flexbox lessons tomorrow.
+
+**Links:**
+* [Survey Form on CodePen](https://codepen.io/kelli/pen/EOKMPa)
+
+
 ## Day 5: November 8, 2018
 
 ![100 Days of Code Day 5](assets/images/100-days-of-code-day-5.jpg)
