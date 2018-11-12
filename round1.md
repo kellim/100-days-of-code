@@ -4,6 +4,18 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 7: November 11, 2018
+
+![100 Days of Code Day 5](assets/images/100-days-of-code-day-7.jpg)
+
+**Progress:**
+
+I finished the Applied Visual Design section on freeCodeCamp and started on Applied Accessibility. I also worked on styling the survey form, but it still needs some work. I would rather be writing JavaScript code, but I wanted to practice my CSS skills. Design is the hardest part, and there are a couple of books I'm planning to read to help me improve at design, though I don't expect to ever be a designer except for on my own projects.
+
+**Links:**
+* [Survey Form on CodePen](https://codepen.io/kelli/pen/EOKMPa)
+
+
 
 ## Day 6: November 10, 2018
 
