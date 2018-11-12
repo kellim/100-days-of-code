@@ -12,6 +12,12 @@ This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challe
 
 I finished the Applied Visual Design section on freeCodeCamp and started on Applied Accessibility. I also worked on styling the survey form, but it still needs some work. I would rather be writing JavaScript code, but I wanted to practice my CSS skills. Design is the hardest part, and there are a couple of books I'm planning to read to help me improve at design, though I don't expect to ever be a designer except for on my own projects.
 
+**Distraction of the Day:**
+
+This was on the sidebar when I was on StackOverflow and I had to check it out: [Why does HTML think “chucknorris” is a color?](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color)
+
+I saw Chuck Norris referenced in a freeCodeCamp lesson today too.
+
 **Links:**
 * [Survey Form on CodePen](https://codepen.io/kelli/pen/EOKMPa)
 
