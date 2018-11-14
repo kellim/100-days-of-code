@@ -4,9 +4,19 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 9: November 13, 2018
+
+![100 Days of Code Day 9](assets/images/100-days-of-code-day-9.jpg)
+
+It was a busy day, but I managed to squeeze in over an hour of code and added a little style to my page but spent the most time finding a color palette. I want to get an MVP site up as soon as I can, but not one that looks bad with strange color choices.
+
+The color picker tool at [palleton.com](http://paletton.com/) is really cool and I made a nice teal monochromatic color palette. The examples on the site look good, so I hope I can make them look good on my website.
+
+* [My website repo](https://github.com/kellim/kelliblalock-dot-com) - I didn't do a commit for the style yet.
+
 ## Day 8: November 12, 2018
 
-![100 Days of Code Day 5](assets/images/100-days-of-code-day-8.jpg)
+![100 Days of Code Day 8](assets/images/100-days-of-code-day-8.jpg)
 
 **Progress:**
 
@@ -19,7 +29,7 @@ I got started on my website by adding my name and social icons. I decided to use
 
 ## Day 7: November 11, 2018
 
-![100 Days of Code Day 5](assets/images/100-days-of-code-day-7.jpg)
+![100 Days of Code Day 7](assets/images/100-days-of-code-day-7.jpg)
 
 **Progress:**
 
@@ -38,7 +48,7 @@ I saw Chuck Norris referenced in a freeCodeCamp lesson today too.
 
 ## Day 6: November 10, 2018
 
-![100 Days of Code Day 5](assets/images/100-days-of-code-day-6.jpg)
+![100 Days of Code Day 6](assets/images/100-days-of-code-day-6.jpg)
 
 **Progress:**
 
