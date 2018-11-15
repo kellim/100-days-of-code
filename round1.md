@@ -4,6 +4,17 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 10: November 14, 2018
+
+![100 Days of Code Day 10](assets/images/100-days-of-code-day-10.png)
+
+I played around with Flexbox and adjusted the style on my survey a little. I also finished the freeCodeCamp Flexbox lessons which were mostly review. I decided to do some CSS Grid training before I complete my website because I haven't used it before and it might be better to use that than Flexbox.
+
+I also read a little about SASS best practices and the most important thing seems to be to not nest more than 4 levels down or you'll potentially have a mess.
+
+**Links:**
+* [Survey Form on CodePen](https://codepen.io/kelli/pen/EOKMPa) (Work in Progress)
+
 ## Day 9: November 13, 2018
 
 ![100 Days of Code Day 9](assets/images/100-days-of-code-day-9.jpg)
