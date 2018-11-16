@@ -4,6 +4,18 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 11: November 15, 2018
+
+![100 Days of Code Day 11](assets/images/100-days-of-code-day-11.png)
+
+I watched the first 5 videos of Wes Bos's [CSS Grid Course](https://cssgrid.io/) and I learned the very basics of Grid as well as took some handwritten notes. My favorite way to take notes is with MS OneNote, but I've heard handwritten notes are better to help you retain what you've learned. It's a lot harder to take technical notes when you can't add a screenshot, but maybe I don't need so many. I can perhaps make a cheatsheet in OneNote once I've finished the training.
+
+I also made a couple of pens for practice: a Tic-Tac-Toe Grid and a grid of projects (like the kind you might see on a developer's portfolio page.) I know it should be responsive, but I'm not sure how to make things responsive with Grid yet.  Perhaps Flexbox should be used instead but I'll figure that out later once I've learned Grid better.
+
+**Links:**
+* [Tic-Tac-Toe Grid](https://codepen.io/kelli/pen/LXLObe)
+* [Grid of Projects](https://codepen.io/kelli/pen/mQwLXe/)
+
 ## Day 10: November 14, 2018
 
 ![100 Days of Code Day 10](assets/images/100-days-of-code-day-10.png)
