@@ -4,6 +4,16 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 12: November 16, 2018
+
+![100 Days of Code Day 12](assets/images/100-days-of-code-day-12.jpg)
+
+I continued with Wes Bos’s CSS Grid course up to video 13. The best part was the Spanning and Placing Cardio where you do some exercises with Grid on your own. I did have to look up a few things in my notes that I didn’t remember, but it was good to use what I learned so far.
+
+I wanted to get some JavaScript practice in too and did some of the Intro to Basic Algorithm Scripting problems that weren’t around when I first started the challenge. I think I may have done some I’d already done in the past too, but all the code I’d entered before was gone. 
+
+That reminds me, tomorrow I better start back up on Colt Steele’s Algorithms course because I want to study and practice algorithms for a couple hours each day.
+
 ## Day 11: November 15, 2018
 
 ![100 Days of Code Day 11](assets/images/100-days-of-code-day-11.png)
