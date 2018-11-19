@@ -4,6 +4,18 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 13: November 18, 2018
+
+![100 Days of Code Day 13](assets/images/100-days-of-code-day-13.jpg)
+
+I’m not counting yesterday (11/17) as a “day of code” because I didn’t do any coding outside of tutorials, but I did get up to lecture 23 in Colt Steele’s Algorithms course and learned about Grid Template areas in Wes Bos’s CSS Grid course. 
+
+Today I worked on the testimonial slider and wrote code to truncate text after a certain number of characters in a testimonial so they would all be the same size. However, having the same amount of characters doesn’t mean they’ll be the same number of lines since some lines have more characters than others and not using a monospaced font means characters might not all be the same size. This solution probably won’t work because what I’m actually trying to do is make lines in testimonials the same length so that the content under the testimonial slider doesn’t move up and down each time you advance to a testimonial that has more or less lines of content.
+
+In researching possible solutions, it looks like truncating text is a pain point for developers - there are ways to truncate by lines of text, but it doesn’t seem there’s a perfect solution so I’ll keep looking into it.
+
+
+
 ## Day 12: November 16, 2018
 
 ![100 Days of Code Day 12](assets/images/100-days-of-code-day-12.jpg)
