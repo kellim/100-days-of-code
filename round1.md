@@ -4,6 +4,29 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 16: November 21, 2018
+
+I worked on the testimonial slider again today and I was able to set all the testimonial heights to the longest testimonial’s height by temporarily cloning carousel items that didn’t have the `active` class and hiding them with `visibility: hidden;` before adding them to the DOM where the other testimonials were added to. Then I was able to get the height of the cloned testimonial while the original testimonial had zero height due to Bootstrap hiding carousel items with `display: none;` which gives them 0 height. 
+
+I also added some code so that it didn't recalculate the longest testimonial's height and assign its height to the other testimonials until you're done resizing the browser since the resize event can fire many times in one attempt to resize.
+
+I’m happy that’s working but there are still some challenges left as I’m having trouble getting media queries and things aren’t looking so good at various viewport sizes.
+
+_Where did the image for each day go? I haven't created post/Twitter images in the past few days as it takes awhile and I think I'll concentrate on coding going forward and add images where I can, maybe less fancy and or frequent than previous images. We'll see! :smile:_
+
+## Day 15: November 20, 2018
+
+I worked on the testimonial slider again and I was hoping I could get the animation from one slide to the next to work after I was able to set all testimonial heights to the longest testimonial’s height after overwriting some Bootstrap yesterday, but I couldn’t get it to work. I did some research and found some ideas that can be tried tomorrow
+
+## Day 14: November 19, 2018
+
+I’m trying to get the testimonial slider to work without truncating text for now. One reason the testimonial slider is challenging is because with Bootstrap carousels, inactive carousel items will have their display property set to ‘none’ and will have a height of 0 because `display: none;’ removes an element from the document flow. The issue is that some testimonials are longer than others which isn’t good when you don’t want the content under the testimonial to shift when you switch between testimonials. Unfortunately, all of the bootstrap testimonial slider examples I found online either had testimonial text the same size or didn’t care if the content below the slider shifted.
+
+I was able to get the longest testimonial’s height and assign its height to the other testimonials by  overwriting some Bootstrap so that inactive carousel items used `visibility: hidden;` with `position: absolute` and `display: block` instead of `display: none;`. Then I used jQuery to get the longest testimonial’s height and assign it to other testimonials. It also repeats this process when the window is resized since the longest testimonial will be even longer in height when the viewport is narrower. The problem with this solution is that the animation when you advance to another slide doesn’t look as smooth when you’re not using `display: none;` to hide the inactive item.
+
+
+
+
 ## Day 13: November 18, 2018
 
 ![100 Days of Code Day 13](assets/images/100-days-of-code-day-13.jpg)
