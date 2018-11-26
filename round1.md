@@ -4,6 +4,23 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+
+## Day 19: November 24, 2018
+
+I finished styling the testimonial slider for She's Coding and tested it with different browsers. The images were distorted in Firefox and I had to wrap the images in a `div` so they'd be the correct size. In Safari, it wasn't intiallly setting the testimonial heights to the longest testimonial, so I updated it to run the initial code upon the `window.onload` event firing. I'm also happy to have submitted a pull request for it.
+
+**Links:**
+
+* [My Pull Request](https://github.com/shescoding/shescoding-dot-org/pull/162)
+
+## Day 18: November 24, 2018
+
+Worked on the She's Coding testimonial slider code by applying the code from my CodePen example. I got it mostly ready to go, however spent some time fine-tuning the css. Maybe I should have worked on the She's Coding site locally all along instead of working on my CodePen example with fake data. I do like having a CodePen example for easy access if I need to code something like that again, but I had to fine-tune the actual project's styles after fine-tuning the CodePen example's styles.
+ 
+## Day 17: November 23, 2018
+
+I didn't do any coding on Thanksgiving, but I coded on Black Friday and got the testimonial slider in CodePen to work responsively with media queries. 
+
 ## Day 16: November 21, 2018
 
 I worked on the testimonial slider again today and I was able to set all the testimonial heights to the longest testimonial’s height by temporarily cloning carousel items that didn’t have the `active` class and hiding them with `visibility: hidden;` before adding them to the DOM where the other testimonials were added to. Then I was able to get the height of the cloned testimonial while the original testimonial had zero height due to Bootstrap hiding carousel items with `display: none;` which gives them 0 height. 
