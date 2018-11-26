@@ -5,7 +5,7 @@
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
 
-## Day 19: November 24, 2018
+## Day 19: November 25, 2018
 
 I finished styling the testimonial slider for She's Coding and tested it with different browsers. The images were distorted in Firefox and I had to wrap the images in a `div` so they'd be the correct size. In Safari, it wasn't intiallly setting the testimonial heights to the longest testimonial, so I updated it to run the initial code upon the `window.onload` event firing. I'm also happy to have submitted a pull request for it.
 
