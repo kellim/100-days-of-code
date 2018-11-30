@@ -4,6 +4,25 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 23: November 29, 2018 
+
+I made 2 PRs to the She's Coding site today! They weren't big ones - removing a stray closing a tag and reordering the team members plus adding myself as a team member. 
+
+I also worked on my website and found an article about Gatsby - [How I made my portfolio website blazing fast with Gatsby](https://medium.freecodecamp.org/how-i-made-my-portfolio-website-blazing-fast-with-gatsby-82ccddc2f671) and I thought it would be a good idea to learn Gatsby and possibly use it for my website. Maybe I will pause working on my website for a bit and try to refine the design while I learn Gatsby.
+
+## Day 22: November 28, 2018
+
+I worked on my website again today and played around with colors. Somehow, my font-awesome social icons are stuck at a dark purple color and look reddish when you click on them which I didn’t set and if I inspect it in the browser it doesn’t have those colors set there.
+
+## Day 21: November 27, 2018
+
+I found the article [NPM is an amazing build tool](http://lucasmreis.github.io/blog/npm-is-an-amazing-build-tool/) and decided to use it as a build tool for now for my site because it’s super simple and my site won’t be that complicated. For now, SASS is the only reason a build tool is needed and non-SASS files are being copied directly from `src` to `dist`without modification. 
+
+I spent some time setting up the `package.json` file and had an issue with the package `parallelshell` and I researched the issue and ended up downgrading to the previous version of the package and then it worked. 
+
+## Day 20: November 26, 2018
+
+Worked on my website and added navigation at the top and styled it  with flexbox, however didn’t add the hamburger menu yet. Made the hero section take up the entire viewport - not sure if that’s what I really want it to do. I also spent some time researching design and style.
 
 ## Day 19: November 25, 2018
 
