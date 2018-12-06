@@ -4,6 +4,28 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 27: December 5, 2018 
+
+I continued with the official Gatsby tutorial and I have been taking my time reading other Gatsby documentation pages, some of which were linked to from the tutorial. There are 8 sections and I'm only on the second one, but I hope I can pick up the pace to finish it soon.
+
+## Day 26: December 4, 2018
+
+I started the official Gatsby tutorial today and I also changed my mind that each day I need to do 1 hour of coding outside of tutorials for it to count for 100 days of code. If I'm doing a tutorial that I need to complete for a project, I think that's OK rather than trying to find something else to code. However, I'll try to add to the tutorial code where I can.
+
+I didn't do any coding yesterday because I was busy fixing my PC. I'm following the rule that it's OK as long as I don't miss 2 days in a row, but I still should have coded because it's not my only computer. I'll try my best not to miss any more days, but the holidays might be a little challenging.
+
+## Day 25: December 2, 2018
+
+It's been a busy weekend and I missed yesterday. Today I tested Gatsby out in a repl to see what I could figure out before doing the Gatsby tutorial.
+
+What did I learn? See my [Testing Out Gatsby repl](https://repl.it/@kellim/testing-out-gatsby) for details!
+
+## Day 24: November 30, 2018
+
+There were some minor issues with the PRs I submitted to shescoding.org and I provided responses about them and resolved the issues. 
+
+I also thought I could improve upon my previous design of my own website and created some new designs on the whiteboard.
+
 ## Day 23: November 29, 2018 
 
 I made 2 PRs to the She's Coding site today! They weren't big ones - removing a stray closing a tag and reordering the team members plus adding myself as a team member. 
