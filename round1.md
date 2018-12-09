@@ -4,6 +4,19 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+
+## Day 30: December 8, 2018
+
+I watched the [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) and then made my own Gatsby test site to reinforce what I've learned. I also read up to page 33 in Hello Web Design including the chapter on color. Choosing colors for my own projects is harder than coding.
+
+## Day 29: December 7, 2018
+
+I finished the official Gatsby tutorial and also read Gatsby documentation and did some research into what the best way is to create a Gatsby blog and I'm not sure which way to go yet but I'm leaning torward writing my posts in markdown over using Wordpress as a backend because I think it would be more secure.
+
+## Day 28: December 6, 2018 
+
+I made it to the end of section 4 "Data in Gatsby" in the official Gatsby tutorial and in it was a link to [How to GraphQL](https://www.howtographql.com/) where I completed GraphQL fundamentals. GraphQL sounds better and more efficient than REST and I can't wait to use it in Gatsby and other projects!
+
 ## Day 27: December 5, 2018 
 
 I continued with the official Gatsby tutorial and I have been taking my time reading other Gatsby documentation pages, some of which were linked to from the tutorial. There are 8 sections and I'm only on the second one, but I hope I can pick up the pace to finish it soon.
