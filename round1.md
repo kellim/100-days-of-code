@@ -4,6 +4,13 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 32: December 10, 2018
+
+I had issues creating a new Gatsby project for my website, but got it to work on my Windows 10 PC after it didn't work on the Mac. I still need to troubleshoot the Mac issue. But, do I really? Perhaps Windows + Linux will be the best way to code going forward. Anyway, I now have a local repository for my website with barebones Gatsby starter code that I'll need to turn into a portfolio and blog. Yay!
+
+## Day 31: December 9, 2018
+
+I kept practicing with my Gatsby test site and planned out the components to create for my site. 
 
 ## Day 30: December 8, 2018
 
