@@ -4,6 +4,20 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 35: December 13, 2018
+
+I got multiple images (2 so far) to display on my index page using `gatsby-image` and you can tell they're lazy loading, but it seems like they should load right away and not show them blurred. For the project image, I started a Project component that will display a project with its picture and some info.
+
+Also, today I was getting a bunch of console errors when viewing my site on localhost and spent some time troubleshooting why the page wasn't displaying. It turns out the issue was that I had named an image file with an extra `.jpg` in the file extension, for instance `image.jpg.jpg`. I'm on a new Windows 10 install and had forgotten to change settings in File Explorer so file extensions are always shown and so they were showing up like `image.jpg` there but the extra `.jpg` was hidden.  
+
+## Day 34: December 12, 2018
+
+I researched Gatsby images and watched a tutorial on how to display images in Gatsby but it doesn't use `gatsby-image`. The example in the starter code is just for one image, but I need to display multiple images.
+
+## Day 33: December 11, 2018
+
+I read some Gatsby articles as my main coding activity for the day, but didn't get to coding my website yet.
+
 ## Day 32: December 10, 2018
 
 I had issues creating a new Gatsby project for my website, but got it to work on my Windows 10 PC after it didn't work on the Mac. I still need to troubleshoot the Mac issue. But, do I really? Perhaps Windows + Linux will be the best way to code going forward. Anyway, I now have a local repository for my website with barebones Gatsby starter code that I'll need to turn into a portfolio and blog. Yay!
