@@ -4,6 +4,16 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 37: December 15, 2018
+
+I wanted to add some style and looked at the different options, then decided on using CSS modules with SCSS over inline styles or styled components. I like having separate SCSS files and each component will be in its own directory that also contains the SCSS for the component. I did get the CSS modules setup and working with SCSS, but I didn't add much style yet other than to test that it works. 
+
+I've done more research and planning than coding so far, but that's okay. Hopefully tomorrow I can knock out some code!
+
+## Day 36: December 14, 2018
+
+I worked on passing data as props to the Project component and researched where I should put the data. I decided to put a `.json` file in `src\data` that contains the information for each project. 
+
 ## Day 35: December 13, 2018
 
 I got multiple images (2 so far) to display on my index page using `gatsby-image` and you can tell they're lazy loading, but it seems like they should load right away and not show them blurred. For the project image, I started a Project component that will display a project with its picture and some info.
