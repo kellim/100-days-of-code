@@ -4,6 +4,18 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 40: December 18, 2018
+
+I'm still working on my Gatsby site and learning as I go. There are often many things to research each day, like today I realized there was a problem with the way I was using CSS modules since I'd styled an image to be round in one component, but that made all images round. The page isn't displaying at the moment, but it's late and I'll troubleshoot it tomorrow. 
+
+## Day 39: December 17, 2018
+
+I continued to work on my Gatsby site and got images to work in the Project component. Before I was only displaying the same image for all the projects. I also started an About component.
+
+## Day 38: December 16, 2018
+
+Today I worked on my Gatsby site and refactored the way images were passed down to the Project component.
+
 ## Day 37: December 15, 2018
 
 I wanted to add some style and looked at the different options, then decided on using CSS modules with SCSS over inline styles or styled components. I like having separate SCSS files and each component will be in its own directory that also contains the SCSS for the component. I did get the CSS modules setup and working with SCSS, but I didn't add much style yet other than to test that it works. 
