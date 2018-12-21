@@ -234,7 +234,7 @@ I saw Chuck Norris referenced in a freeCodeCamp lesson today too.
 
 **Progress:**
 
-I missed a day yesterday, but I'm back today and my Survey Form now passes all the tests. :tada: I didn't get that far with styling the form yet, but tomorrow I want to try using Flexbox to style the form which will hopefully make it so no media queries need to be used. I also did some CSS lessons on freeCodeCamp and hope to do the CSS Grid and Flexbox lessons tomorrow.
+I missed a day yesterday, but I'm back today and my Survey Form now passes all the tests. I didn't get that far with styling the form yet, but tomorrow I want to try using Flexbox to style the form which will hopefully make it so no media queries need to be used. I also did some CSS lessons on freeCodeCamp and hope to do the CSS Grid and Flexbox lessons tomorrow.
 
 **Links:**
 * [Survey Form on CodePen](https://codepen.io/kelli/pen/EOKMPa)
