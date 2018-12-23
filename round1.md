@@ -4,6 +4,10 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Holiday Break
+
+I'm taking a break from 100 Days of Code until After Christmas, then I'll resume with day 41.
+
 ## Day 40: December 18, 2018
 
 I'm still working on my Gatsby site and learning as I go. There are often many things to research each day, like today I realized there was a problem with the way I was using CSS modules since I'd styled an image to be round in one component, but that made all images round. The page isn't displaying at the moment, but it's late and I'll troubleshoot it tomorrow. 
