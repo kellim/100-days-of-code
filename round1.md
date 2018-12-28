@@ -4,9 +4,18 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 41: December 27, 2018
+
+Today I worked on my website. The page is working but the style for centering the page isn't working and I tried figuring that out to no avail yet. I also recreated the GitHub repository for the site since I had started one before that wasn't using Gatsby. 
+
+Other than that, I read some web development articles on [Tania Rascia's blog](https://www.taniarascia.com/blog/) which I came across today. I found [Design for Developers: Specific Steps to Improve Your Website Design](https://www.taniarascia.com/design-for-developers/) especially interesting and hope to implement the tips there so my website looks good since I'm not a designer.
+
+**Links**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
 ## Holiday Break
 
-I'm taking a break from 100 Days of Code until After Christmas, then I'll resume with day 41.
+I'm taking a break from 100 Days of Code until after Christmas, then I'll resume with day 41.
 
 ## Day 40: December 18, 2018
 
