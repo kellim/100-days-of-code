@@ -4,6 +4,17 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 42: December 28, 2018
+
+I worked on my website a little and figured out why the page wasn't centered, however that brought up another issue where the images are bigger than the maxWidth specified when using gatsby-image and I am researching that.
+
+I also made it to video # 27 in  Jonas Schmedtmann's JavaScript course. Since I already know JS, I've been watching at double speed before I get to the part I'm interested in about creating vanilla JS apps using MVC. Udacity's JS Design Patterns course touched on MVC in JS without a framework, but I want to go more in depth and improve my code organization skills.  I also decided not to skip stuff because Jonas is a good teacher and I learn some tips along the way.
+
+I also got back into Colt Steele's JavaScript Algorithms course and reviewed my previous notes, then made it to the problem solving patterns section and learned about the frequency solving pattern which isn't totally new to me but the example was great and I feel more comfortable solving the types of problems where you use objects to keep count of things.
+
+**Links**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
 ## Day 41: December 27, 2018
 
 Today I worked on my website. The page is working but the style for centering the page isn't working and I tried figuring that out to no avail yet. I also recreated the GitHub repository for the site since I had started one before that wasn't using Gatsby. 
