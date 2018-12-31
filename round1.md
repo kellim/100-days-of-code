@@ -4,6 +4,30 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 44: December 30, 2018
+
+I figured out the why images were too big and not keeping their aspect ratio in Gatsby when using `gatsby-image` by looking at the image that was already in my new Gatsby site that uses the default starter code and seeing what was different. I just need to put a `div` that sets `maxWidth` around the images on my site using `gatsby-image` (working on that). Just setting `maxWidth` in the query wasn't working and trying to style the divs Gatsby puts around images didn't work either. 
+
+It's too bad Flexbox isn't working with `gatsby-image` for me, but CSS Grid works so far--at least the images are still visible when you use `display: grid`. I'm not as comfortable with Grid as I am with Flexbox, but it's time I learn it better!
+
+I am now on video 49 of Jonas Schmedtmann's JS course. The DOM section and is mostly review but I'm excited about the tutorial to make a dice game called Pig. This makes me want to create a Farkle game on my own!
+
+I managed to get some algorithm study time in, and completed the Count Unique Values challenge. I was so happy that I could solve the algorithm on my own before he talked about how he'd go about solving it and giving the answer. I like his answer better as it's really clever, but the runtime for mine is the same at O(n).
+
+**Links**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+## Day 43: December 29, 2018
+
+I tried to resolve the problem with images on my site stretching and losing their aspect ratio when using `gatsby-image`. I researched, read documentation, and tried different styles. At the end of the day, I created a new Gatsby site with the default starter code to see if I could recreate the issue there, which I'll play around with tomorrow. Also, another issue is when I use Flexbox to position images using `gatsby-image`, the images disappear.
+
+I progressed to video 40 in Jonas Schmedtmann's JS course - I'm on the section on how JS works under the hood. I knew most of this but it was a good review and he's good at explaining it.
+
+I also completed the Anagram challenge for Colt Steele's JavaScript Algorithms course. I loved it, algorithms have never made so much sense!
+
+**Links**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com) (Didn't push changes - the code was basically back to what it started as at the end of the day.)
+
 ## Day 42: December 28, 2018
 
 I worked on my website a little and figured out why the page wasn't centered, however that brought up another issue where the images are bigger than the maxWidth specified when using gatsby-image and I am researching that.
