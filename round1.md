@@ -4,6 +4,17 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 45: December 31, 2018
+
+**My website:**  I got started on a `Main` component to hold my name, title and social icons as well as a `SocialIcons` component. I'm also rethinking the design. 
+
+**Jonas Schmedtmann JS course:** Made it to the end of video 53 and finished the Pig tutorial game. Next up is a coding challenge to add features to the game on my own.
+
+**Colt Steele Algorithms course:** Made it to the end of video 33 and learned about the sliding window pattern. I completed the Maximum Subarray Sum problem from scratch after seeing the instructor's solution. It feels like a win to write working code for an algorithm even if I just saw the answer. I'm looking forward to the next section where there are some algorithm challenges that use this pattern. But first, there's a lesson on the Divide and Conquer pattern.
+
+**Links**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
 ## Day 44: December 30, 2018
 
 I figured out the why images were too big and not keeping their aspect ratio in Gatsby when using `gatsby-image` by looking at the image that was already in my new Gatsby site that uses the default starter code and seeing what was different. I just need to put a `div` that sets `maxWidth` around the images on my site using `gatsby-image` (working on that). Just setting `maxWidth` in the query wasn't working and trying to style the divs Gatsby puts around images didn't work either. 
