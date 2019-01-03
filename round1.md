@@ -4,6 +4,27 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 47: January 2, 2018
+
+**Progress**
+
+**My Website:** I added missing project images and updated the project list style, but it still needs work. I need to retake screenshots for all the projects and make them bigger. 
+
+**JS Course:** Completed up to Section 5 lecture 60. This section is about objects and functions and I'm really excited to review objects as he explains how things work under the hood pretty well. This course goes over the old (pre-ES6) syntax for everything up until Section 7 and some people don't like that, but I think it's good to know pre-ES6 JavaScript because there's still lots of code around that doesn't use ES6. 
+
+**Algorithms Course:** Watched the lecture that introduces the Divide and Conquer pattern (there will be more on that later) and then advanced to section 6, the optional challenges. I completed the first challenge in the section, "Frequency Counter - sameFrequency" and passed. I'm still a bit slow at solving algorithms, but I'm getting better and faster with practice. 
+
+**Links**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+## Day 46: January 1, 2018
+
+I was out most of the day, but got the minimum of coding time in.
+
+**Progress**
+
+**JS Course:** Completed the coding challenges to add features on my own to the Pig game tutorial code. It was fun, but I'm hoping for harder challenges that I feel are impossible to solve at first, because that's how you learn things in programming - solving the seemingly unsolvable. If something isn't hard at first, you're not stretching your coding skills and learning. I don't remember where I got that idea from, but it's so true, and when something is difficult I just remember that it's supposed to be that way if it's to be a learning experience.
+
 ## Day 45: December 31, 2018
 
 **My website:**  I got started on a `Main` component to hold my name, title and social icons as well as a `SocialIcons` component. I'm also rethinking the design. 
