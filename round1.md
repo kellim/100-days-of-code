@@ -4,9 +4,42 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
-## Day 47: January 2, 2018
 
-***Progress***
+## Day 48: January 3, 2019
+
+**PROGRESS:**
+
+**My Website:** I worked on creating better images instead of coding today.
+
+**JS Course:** I'm currently in the middle of Section 5 Lecture 65. I liked reviewing objects and I created my own Dog function constructor along with several dog objects that could bark.
+
+**Algorithms Course**: I solved the "areThereDuplicates" challenge where you're given a variable number of arguments and you check to see if any of the arguments passed in are duplicates of one another. Here's my code:
+```
+ function areThereDuplicates() {
+    const args = [...arguments];
+    const counter = {};
+    for (let arg of args) {
+        if (counter.hasOwnProperty(arg)) {
+            return true;
+        } else {
+            counter[arg] = 1;
+        }
+    }
+    return false;
+ }
+```
+
+It starts off creating an array containing all the arguments passed in and a counter object that will hold the arguments as we loop through them. It basically loops through the arguments and if the argument isn't already present in the counter object, it will add it with a frequency of 1, but if it is already present, then it will return true, meaning that there's a duplicate. If you're able to get through the entire loop without returning true, there are no duplicates and it will return false. The time complexity is O(n) since there's just one loop.
+
+The instructor provided 2 different answers and mine is a little different, but I think it's OK! I also tested edge cases like having no arguments or only one argument and it worked as expected.
+
+***Links***
+
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com) (Didn't update today after working with the images.)
+
+## Day 47: January 2, 2019
+
+**PROGRESS:**
 
 **My Website:** I added missing project images and updated the project list style, but it still needs work. I need to retake screenshots for all the projects and make them bigger. 
 
@@ -18,11 +51,11 @@ This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challe
 
 * [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
 
-## Day 46: January 1, 2018
+## Day 46: January 1, 2019
 
 I was out most of the day, but got the minimum of coding time in.
 
-***Progress***
+**PROGRESS:**
 
 **JS Course:** Completed the coding challenges to add features on my own to the Pig game tutorial code. It was fun, but I'm hoping for harder challenges that I feel are impossible to solve at first, because that's how you learn things in programming - solving the seemingly unsolvable. If something isn't hard at first, you're not stretching your coding skills and learning. I don't remember where I got that idea from, but it's so true, and when something is difficult I just remember that it's supposed to be that way if it's to be a learning experience.
 
@@ -41,7 +74,7 @@ I was out most of the day, but got the minimum of coding time in.
 
 ## Day 44: December 30, 2018
 
-***Progress***
+**PROGRESS:**
 
 I figured out the why images were too big and not keeping their aspect ratio in Gatsby when using `gatsby-image` by looking at the image that was already in my new Gatsby site that uses the default starter code and seeing what was different. I just need to put a `div` that sets `maxWidth` around the images on my site using `gatsby-image` (working on that). Just setting `maxWidth` in the query wasn't working and trying to style the divs Gatsby puts around images didn't work either. 
 
