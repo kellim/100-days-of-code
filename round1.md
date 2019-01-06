@@ -5,6 +5,42 @@
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
 
+## Day 50: January 5, 2019
+
+I'm at the half way point - day 50 of 100 days of code! 
+
+**PROGRESS:**
+
+**My Website:** I added the project images I updated to the repo as well as updated project descriptions and style. 
+
+**Algorithms Course:** I completed the algorithm challenge "isSubsequence" where you write a function that takes two strings as arguments and you must figure out if the characters in the first string form a subsequence of characters in the second string. In other words, the characters in the first string have to all be present in the correct order in the second string, but they don't have to be all together. For instance, 'bay' forms a subsequence of characters in 'binary' since 'b', 'a', and 'y' are all in 'binary' in the correct order.
+
+My solution is using `i` for the first string and `j` for the second string to act as pointers to characters in the strings with both being initialized to 0. It loops through each character in the second string and checks if the value at index `j` in the second string is equal to the value at index `i` in the first string. If they are equal then `i` is incremented which means that character you just checked in the first string is in the correct order for a potential subsequence and you want to move on to the next character, but if it's not then you leave it. It then checks if `i` is equal to (or greater than) the length of the first string, and returns true if it is because that means you've gone through every character in the first string and have determined that each character in it is present in the second string in the correct order. If the loop never returns true, then false is returned after exiting the loop because it would have already returned true if there was a valid subsequence.
+
+Here's the code I wrote:
+
+```
+function isSubsequence(s1, s2) {
+  let i = 0;
+  for (let j= 0; j < s2.length; j++) {
+    if (s1[i] === s2[j]) {
+      i++;
+      if (i >= s1.length) return true;
+    }
+  }
+  return false;
+}
+```
+
+**Links:**
+[GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+## Day 49: January 4, 2019
+
+**PROGRESS:**
+
+**Algorithms Course:** Worked on the "AveragePair" algorithm challenge where you're given a sorted array of integers and a target average, then you have to find out if there's a pair in the array where their average is equal to the target average. I spent a long time thinking this one through. In the end, I looked at the answer after I thought I couldn't figure it out, but it turns out I had the right idea about solving it, I just wasn't confident in the answer.
+
 ## Day 48: January 3, 2019
 
 **PROGRESS:**
