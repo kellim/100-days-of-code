@@ -5,6 +5,25 @@
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
 
+## Day 52: January 8, 2019
+
+Missed coding on January 7th so today is day 52 instead.
+
+**PROGRESS:**
+
+**JS Course:** I completed Section 5 Lecture 69 - Bind, Call and Apply. 
+
+**Algorithms Course:** I spent some time on the "minSubArrayLen" challenge. It's one that can be solved with the sliding window pattern, but I haven't figured it out yet. I want to spend more time on it before I look at the solution code.
+
+
+## Day 51: January 6, 2019
+
+**My Website:** I worked on the "About Me" text for my site for a couple hours, but I'm not really satisfied with it.
+
+**JS Course:** I finished up through section 5 lecture 68 on closures. It was one of the best explanations of closures I've seen. 
+
+**Algorithms Course:** I worked on the "maxSubarraySum" problem. It's one of the challenges but it was also an example in the course for the sliding window pattern. I didn't remember how to solve it and had to watch the video about the sliding window pattern again before I could do it. 
+
 ## Day 50: January 5, 2019
 
 I'm at the half way point - day 50 of 100 days of code! 
