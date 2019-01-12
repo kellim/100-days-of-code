@@ -5,6 +5,27 @@
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
 
+## Day 55: January 11, 2019
+
+**PROGRESS:**
+
+**My Website:** I installed `react-icons` and added social icons. 
+
+**JS Course:** I made it to section 6, lecture 75 and am excited to start the Budget App project. 
+
+## Day 54: January 10, 2019
+
+**PROGRESS:**
+
+**Algorithms Course:** I spent 2 1/2 hours on the `minSubArrayLen` challenge, which is also [a medium on LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/). I know that is a long time to solve an algorithm, but I'm happy that I didn't feel totally clueless and steadily made progress. 
+
+
+## Day 53: January 9, 2019
+
+**PROGRESS:**
+
+**JS Course:** I completed Section 5 Lecture 70 - coding challenge #7 which is a multiple choice console quiz game that stores questions in an object and receives input using `prompt()`. I also completed the optional "Expert" add ons to the game which includes keeping score. 
+
 ## Day 52: January 8, 2019
 
 Missed coding on January 7th so today is day 52 instead.
