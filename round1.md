@@ -4,6 +4,16 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+Day 56: January 12, 2019
+
+**My Website:** I changed the Typography theme and updated style for fonts and other things.
+
+**JS Course:** I completed up through Section 6 Lecture 79, and am getting a better understanding of the module pattern.
+
+**Algorithms Course:** I tried solving the algorithm challenge to find the longest substring without repeating characters which is also a [medium LeetCode problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/). I made some progress and will continue tomorrow. 
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com) 
 
 ## Day 55: January 11, 2019
 
