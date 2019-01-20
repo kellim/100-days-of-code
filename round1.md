@@ -4,7 +4,67 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 63: Jan 19, 2019
+
+![New Design for Main Component](assets/images/my-website-main-new-design.jpg)
+
+**PROGRESS:**
+
+**My Website:** Updated style for the `Main` and `SocialIcons` components to use new design.
+
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com) 
+
+## Day 62: Jan 18, 2019
+
+**PROGRESS:**
+
+**Algorithms Course:** Reviewed and solved previous Sliding Window and Multiple Pointer algorithm challenges.
+
+## Day 61: Jan 17, 2019
+
+**PROGRESS:**
+
+**Algorithms Course:** Completed through Section 7, lecture 44 and reviewed/solved some previous Sliding Window algorithm challenges.
+
+## Day 60: Jan 16, 2019
+
+**PROGRESS:**
+
+**Algorithms Course:** completed through Section 7, lecture 42 and reviewed/solved some previous Multiple Pointer algorithm challenges
+
+## Day 59: Jan 15, 2019
+
+**PROGRESS:**
+
+**My Website:**  Added CSS color variables, removed Typography plugin and theme and changed font.
+
+**Algorithms:** Re-read the chapter on recursion in Grokking Algorithms book.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com) 
+
+## Day 58: Jan 14, 2019
+
+**PROGRESS:**
+
+**My Website:** Continued to work on site design in Figma.
+
+**Algorithms Course:** Completed through Section 7, Lecture 40. This section is all about recursion.
+
+
+## Day 57: Jan 13, 2019
+
+**PROGRESS:**
+
+**My Website:** Found out about Figma and worked on improving my site design. 
+
+**Algorithms Course:** I didn't get the longest substring algorithm challenge correct on my own and looked at the answer code. There isn't an explanation for the answer and I have trouble reproducing the answer on my own. I will revisit it later as the instructor said some of these are hard and not to let them hold you back.
+
 ## Day 56: January 12, 2019
+
+**PROGRESS:**
 
 **My Website:** I changed the Typography theme and updated style for fonts and other things.
 
