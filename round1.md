@@ -4,6 +4,75 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 70: Jan 27, 2019
+
+**PROGRESS:**
+
+**My Website:** Worked on the issue [Edge browser: FOUT (flash of unstyled text) when loading page](https://github.com/kellim/kelliblalock-dot-com/issues/1). The things I tried just made the problem worse as other browsers would have the problem too. I did learn a lot about FOUT though, just not exactly how to solve my particular problem.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+
+## Day 69: Jan 26, 2019
+
+**PROGRESS:**
+
+**My Website:** Deployed site to Netlify and worked on some issues:
+* [Image loads slowly](https://github.com/kellim/kelliblalock-dot-com/issues/2)
+* [Getting error when deploying site to Netlify: error Generating JavaScript bundles failed](https://github.com/kellim/kelliblalock-dot-com/issues/4)
+* [The text "Loading (StaticQuery)" visible on page under navbar](https://github.com/kellim/kelliblalock-dot-com/issues/6)
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+## Day 68: Jan 25, 2019
+
+**PROGRESS:**
+
+**My Website:** Worked on creating a favicon.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+
+## Day 67: Jan 24, 2019
+
+**PROGRESS:**
+
+**My Website:** Created Header component and updated style.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+## Day 66: Jan 23, 2019
+
+**PROGRESS:**
+
+**My Website:** Updated Projects component to use new design and added Footer and Contact component.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com) 
+
+## Day 65: Jan 22, 2019
+
+**PROGRESS:**
+
+**My Website:** Continued updating About component to use new design.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com) 
+
+
+## Day 64: Jan 21, 2019
+
+**PROGRESS:**
+
+**My Website:** Started updating About component to use new design.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com) 
+
 ## Day 63: Jan 19, 2019
 
 ![New Design for Main Component](assets/images/my-website-main-new-design.jpg)
