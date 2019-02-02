@@ -4,6 +4,40 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 75 Feb 1, 2019
+
+**PROGRESS:**
+
+**Algorithms Course:** I finished Section 7 on recursion. I especially apreciated learning about helper method recursion where you have an inner recursive function inside an outer function that has a variable you want to keep track of in the inner function without resetting it each time. You can do "pure recursion" without the helper method but it definitly is harder to wrap your head around like the instructor warned. 
+
+
+## Day 74 Jan 31, 2019
+
+**PROGRESS:**
+
+**Algorithms Course:** I practiced sliding window algorithms. `findTheLongestSubstring` is still hard.
+
+
+## Day 73: Jan 30, 2019
+
+**PROGRESS:**
+
+**Algorithms Course:** While I was finishing up my site, I wasn't practicing algorithms as much as I should. I solved the multiple frequency pointer algorithms again.
+
+
+## Day 72: Jan 29, 2019
+
+**PROGRESS:**
+
+**My Website:** Worked on the FOUT issue again with no resolution yet. I'll put this issue on hold for a bit.
+
+## Day 71: Jan 28, 2019
+
+**PROGRESS:**
+
+**My Website:** Created a separate branch for the Edge FOUT issue and tried to resolve it again.
+
+
 ## Day 70: Jan 27, 2019
 
 **PROGRESS:**
