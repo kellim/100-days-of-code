@@ -4,6 +4,69 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
 
+## Day 85 Feb 11, 2019
+
+**PROGRESS:**
+
+Worked through the second section of Node Fundamentals course on Treehouse. Also checked out Codecademy's new Node course and decided it wasn't for me. 
+
+Looked for an API I could use to request data from and made a practice request in Node using the [Deck of Cards](https://deckofcardsapi.com/) API. 
+
+## Day 84 Feb 10, 2019
+
+**PROGRESS:**
+
+Worked through first section of Node Fundamentals course on Treehouse. 
+
+## Day 83 Feb 9, 2019
+
+**PROGRESS:**
+
+Spent a lot of time trying to figure out the best way to learn Node.js and Express in more depth so I can use it to create apps. Continued to practice what I'd learned so far in the Node.js Crash Course and looked at Node documentation to try out other things.
+
+## Day 82 Feb 8, 2019
+
+**PROGRESS:**
+
+Reviewed my notes from the Node.js Crash course and practiced what I'd learned so far (without having learned Express yet).
+Read some articles about linked lists as well.
+
+## Day 81 Feb 7, 2019
+
+**PROGRESS:**
+
+Watched the second half of the Node.js Crash Course and took notes. Also worked on more practice problems from chapters 1 and 2 of Cracking the Coding Interview.
+
+## Day 80 Feb 6, 2019
+
+**PROGRESS:**
+
+Watched half of the Node.js Crash Course and took notes. Also worked on algorithm practice problems from chapters 1 and 2 of Cracking the Coding Interview.
+
+## Day 79 Feb 5, 2019
+
+**PROGRESS:**
+
+Continued to work on Cracking the Coding Interview chapter 2 (Linked Lists) practice problems.
+
+## Day 78 Feb 4, 2019
+
+**PROGRESS:**
+
+Reviewed Chapter 2 of Cracking the Coding Interview (Linked Lists) and worked on practice problems from the chapter.
+
+## Day 77 Feb 3, 2019
+
+**PROGRESS:**
+
+Continued to work on Cracking the Coding Interview Chapter 1 (Arrays and Strings) problems.
+
+## Day 76 Feb 2, 2019
+
+**PROGRESS:** 
+
+Reviewed Chapter 1 of the Cracking the Coding Interview book (Arrays and Strings) and worked on a few practice questions.
+
 ## Day 75 Feb 1, 2019
 
 **PROGRESS:**
