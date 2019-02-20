@@ -2,7 +2,45 @@
 
 ![100 Days of Code Round 1 Image](assets/images/100-days-of-code-round-1.jpg)
 
-This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18.
+This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18. Sometimes I'm slow to update this but I also keep track of what I do each day on paper.
+
+## Day 92 Feb 19, 2019
+
+I  worked on the Node course through Section 3 Lesson 11. I also read a lot of articles on dev.to. 
+
+## Day 91 Feb 18, 2019
+
+I'm excited about learning Node and wanted a better class on it with good example programs and decided to take The Complete Node.js Developer Course on Udemy with Andrew Mead as the instructor. I made it through Section 2 Lesson 5. I also practiced a couple algorithms I've seen before.
+
+## Day 90 Feb 17, 2019
+
+I continued to practice algorithms on paper today.
+
+## Day 89 Feb 16, 2019
+
+I was away from the computer most of the day, but practiced some algorithms on paper.
+
+## Day 88 Feb 15, 2019
+
+Continued to do research for my site. The work I got done was Removing fadeIn from images on my site. I also practiced some algorithms that I have done before.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+
+## Day 87 Feb 14, 2019
+
+Yesterday I took a break. Today, I worked on my Gatsby site and tried to fix the Edge FOUT issue and noticed many other sites have this issue with Edge.
+
+**Links:**
+* [GitHub repo for kelliblalock.com](https://github.com/kellim/kelliblalock-dot-com)
+
+
+## Day 86 Feb 12, 2019
+
+**PROGRESS:**
+
+Completed up through Section 10 (Searching Algorithms) Lesson 63 of the Algorithms course I'm taking. 
 
 ## Day 85 Feb 11, 2019
 
