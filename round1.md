@@ -4,6 +4,10 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18. Sometimes I'm slow to update this but I also keep track of what I do each day on paper.
 
+## Day 93 Feb 20, 2019
+
+I completed the Node course through Section 3 Lesson 15, completing a couple small exercises in the process. 
+
 ## Day 92 Feb 19, 2019
 
 I  worked on the Node course through Section 3 Lesson 11. I also read a lot of articles on dev.to. 
