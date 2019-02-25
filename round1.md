@@ -2,7 +2,24 @@
 
 ![100 Days of Code Round 1 Image](assets/images/100-days-of-code-round-1.jpg)
 
-This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18. Sometimes I'm slow to update this but I also keep track of what I do each day on paper.
+This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18 which is meant to keep track of the coding I do each day. Sometimes I'm slow to update this but I also keep track of what I do each day on paper. It's mostly not exciting, but I've started writing posts at [dev.to/kelli](https://dev.to/kelli) that are hopefully more interesting.
+
+
+## Day 97 Feb 24, 2019
+
+I completed through Section 3 Lesson 24 of the Node.js course. I'm done with section 3 - the Notes app, and next up is section 4, the weather app. I also continued whiteboarding.
+
+## Day 96 Feb 23, 2019
+
+I completed the Node.js course through Section 3 Lesson 21. Learning about debugging is always awesome! I also continued practicing algorithms on a whiteboard. 
+
+## Day 95 Feb 22, 2019
+
+I completed the Node.js course through Section 3 Lesson 19, and practiced algorithms on a whiteboard. 
+
+## Day 94 Feb 21, 2019
+
+I completed the Node.js course through Section 3 Lesson 17, and practiced algorithms on a whiteboard.
 
 ## Day 93 Feb 20, 2019
 
