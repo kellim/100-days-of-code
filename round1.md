@@ -4,6 +4,11 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18 which is meant to keep track of the coding I do each day. Sometimes I'm slow to update this but I also keep track of what I do each day on paper. It's mostly not exciting, but I've started writing posts at [dev.to/kelli](https://dev.to/kelli) that are hopefully more interesting.
 
+## Day 98 Feb 25, 2019
+
+I am almost done with Section 4 Lesson 28 of the Node.js course I'm taking. The weather app that's a part of the course has an issue because Google changed it so you have to use an API key with their geolocation API since the course was created, and there may be a cost involved. I might opt to go for the Mapquest API option instead. 
+
+I also researched how to add environment variables to Windows 10 when developing Node.js apps. I read an article with some techniques that look interesting: [Here's how you can actually use Node environment variables](https://medium.freecodecamp.org/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a).
 
 ## Day 97 Feb 24, 2019
 
