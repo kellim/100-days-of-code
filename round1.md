@@ -4,6 +4,10 @@
 
 This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18 which is meant to keep track of the coding I do each day. Sometimes I'm slow to update this but I also keep track of what I do each day on paper. It's mostly not exciting, but I've started writing posts at [dev.to/kelli](https://dev.to/kelli) that are hopefully more interesting.
 
+## Day 99 Feb 26, 2019
+
+I completed through Lesson 4.32 of the Node.js course. I switched to the Mapquest API and did a lot of experimenting with code and calling the API on my own. It works so far! Plus, I added my Mapquest key as an environment variable using `dotenv` which wasn't in the lesson. I also did some whiteboarding.
+
 ## Day 98 Feb 25, 2019
 
 I am almost done with Section 4 Lesson 28 of the Node.js course I'm taking. The weather app that's a part of the course has an issue because Google changed it so you have to use an API key with their geolocation API since the course was created, and there may be a cost involved. I might opt to go for the Mapquest API option instead. 
