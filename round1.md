@@ -2,7 +2,33 @@
 
 ![100 Days of Code Round 1 Image](assets/images/100-days-of-code-round-1.jpg)
 
-This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I started on 11/4/18 which is meant to keep track of the coding I do each day. Sometimes I'm slow to update this but I also keep track of what I do each day on paper. It's mostly not exciting, but I've started writing posts at [dev.to/kelli](https://dev.to/kelli) that are hopefully more interesting.
+This is my log for the [100 Days of Code](https://www.100daysofcode.com/) challenge that I completed on 2/27/19, which is where I kept track of the coding I did each day during the challenge. For the most part, it's not that exciting, but I've started writing posts at [dev.to/kelli](https://dev.to/kelli) that are hopefully more interesting!
+
+## 100 Days of Code Wrap Up
+
+I'm done with my first round of 100 Days of Code! 
+
+**Highlights**
+
+I created a testimonial slider for and made other updates to the [She's Coding website](https://shescoding.org). If you go to the site now, the testimonial slider is broken (it doesn't advance to the next testimonial), but I made a pull request to fix it and hopefully it will be working again on the site soon.
+
+I also studied Gatsby and GraphQL and created [my webpage](https://kelliblalock.com) with Gatsby/React. And I worked on deepening my knowledge of JavaScript, but then I switched gears a little to learn Node.
+
+I'm currently taking a Node.js course on Udemy by Andrew Mead. When I'm done learning Node, I'll go back to the JS course where I'm on the section with the budget app that uses the module design pattern. 
+
+And I studied/practiced algorithms. I'm solving algorithms now that I thought I'd never solve before. Not every algorithm is easy, but I'm not afraid of them anymore. I know that if I don't get the answer, that's OK. I'll look for an explanation and try again later.
+
+**What's Next?**
+
+Even if I don't start a new round of 100 Days of Code, I do intend to code/learn everyday. I just won't be publicly logging it all and tweeting about everything I do. I'm not sure I love the tweeting everyday aspect of the challenge, and more often than not I lumped several days into one tweet.
+
+Anyway, I touched on what's next under highlights a bit like learning Node.js. However, the important thing is that I create more apps. For every course I take, I need to create an app or two using the knowledge I learned before moving on to the next one! I've got a long list of things I want to learn, but I also need to make more things with what I know.
+
+## Day 100 Feb 27, 2019
+
+I completed through lesson 4.35 of the Node.js course. The weather app is coming along great even though there are bumps along the way since the API being used changed, but that's OK because I got extra coding and problem solving practice. I also studied algorithms. 
+
+And that's it for this 100 days of code!
 
 ## Day 99 Feb 26, 2019
 
